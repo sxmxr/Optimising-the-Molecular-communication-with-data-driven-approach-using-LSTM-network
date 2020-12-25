@@ -1,5 +1,5 @@
-# Molecular-Communications-Model-Based-and-Data-Driven-Receiver-Design-and-Optimization
-## 1.1 System Model/Network Model
+# Optimising the Molecular communication with data-driven approach using LSTM network
+## 1.1 Network Model
 The channel considered in the article works on the Fick’s second law of diffusion i.e. the molecules will moves towards the less concentration from the higher concentration. It uses CSK (Concentration Shift Keying).
 It shares (on-off shift keying) to transmit information particles towards the receiver. Also the the diffused particles follow Brownian motion and moves randomly and independently. This creates the interference between the molecules reaching at different time slots. This interference is known as Inter Symbol Interference(ISI) and we try to model different threshold based receivers to identify correct transmitted bit and lower BER.[2]
 ## 2.1 System model of ANN:
