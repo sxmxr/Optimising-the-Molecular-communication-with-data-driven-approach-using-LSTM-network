@@ -25,7 +25,6 @@ Each of these gates are binary gates. Input gate controls whether the memory cel
 ![Capture2](https://user-images.githubusercontent.com/47913479/116924562-a7b8f680-ac75-11eb-8382-02244fba0e9e.PNG)
 ![Capture3](https://user-images.githubusercontent.com/47913479/116924568-a982ba00-ac75-11eb-9792-29643bca36dd.PNG)
 ![Capture4](https://user-images.githubusercontent.com/47913479/116924572-aa1b5080-ac75-11eb-9c59-253a26761caf.PNG)
-![Capture5](https://user-images.githubusercontent.com/47913479/116924575-ab4c7d80-ac75-11eb-9696-7ae353568fe2.PNG)
 ![Capture6](https://user-images.githubusercontent.com/47913479/116924577-abe51400-ac75-11eb-9189-623a2033cb61.PNG)
 # Reference
 1.	X. Qian, M. Di Renzo, and A. Eckford, ”Molecular communications: Model-basedand data-driven receiver design and optimization,”IEEE Access, vol. 7, pp. 53 555-53 565, 2019.
