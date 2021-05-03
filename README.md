@@ -20,6 +20,13 @@ a)	Forget gate <br />
 b)	Input gate <br />
 c)	Output gate <br />
 Each of these gates are binary gates. Input gate controls whether the memory cell is updated whereas forget gate controls if the memory cell is reset to 0 and finally the output gate controls whether the information of the current cell is made visible or not.
+## 3	Mind Maps:
+![Capture](https://user-images.githubusercontent.com/47913479/116924557-a5569c80-ac75-11eb-9586-b2604cf7cae6.PNG)
+![Capture2](https://user-images.githubusercontent.com/47913479/116924562-a7b8f680-ac75-11eb-8382-02244fba0e9e.PNG)
+![Capture3](https://user-images.githubusercontent.com/47913479/116924568-a982ba00-ac75-11eb-9792-29643bca36dd.PNG)
+![Capture4](https://user-images.githubusercontent.com/47913479/116924572-aa1b5080-ac75-11eb-9c59-253a26761caf.PNG)
+![Capture5](https://user-images.githubusercontent.com/47913479/116924575-ab4c7d80-ac75-11eb-9696-7ae353568fe2.PNG)
+![Capture6](https://user-images.githubusercontent.com/47913479/116924577-abe51400-ac75-11eb-9189-623a2033cb61.PNG)
 # Reference
 1.	X. Qian, M. Di Renzo, and A. Eckford, ”Molecular communications: Model-basedand data-driven receiver design and optimization,”IEEE Access, vol. 7, pp. 53 555-53 565, 2019.
 2.	Xuewen Qian, Marco Di Renzo. Receiver Design in Molecular Communications: An Approach Based on
